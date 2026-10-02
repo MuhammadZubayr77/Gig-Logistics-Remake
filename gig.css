@@ -1,0 +1,242 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.leading {
+    background-color: #DF343A;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-container {
+    width: 90%;
+    background-color: black;
+    margin: auto;
+    height: 70px;
+    margin-top: 8px;
+    border-radius: 50px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero {
+    background-color: default;
+    width: 100%;
+    margin-bottom: 50px;
+    /* margin-top: -5px; */
+}
+
+.mid-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.left-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.track {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #DF343A;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+    border: 0px;
+}
+
+.contact {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+    border: 2px solid white;
+}
+
+.delivering {
+    font-size: 60px;
+    font-family: "Manrope", sans-serif;
+    color: black;
+    line-height: 70px;
+}
+
+.speed {
+    font-size: 60px;
+    font-family: "Manrope", sans-serif;
+    color: #DF343A;
+    line-height: 70px;
+    margin-top: -25px;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 100px;
+}
+
+.lorem {
+    font-size: 15px;
+    word-spacing: 5px;
+    font-family: "Manrope", sans-serif;
+    color: rgb(155, 152, 152);
+}
+
+.join-us {
+    width: 180px;
+    height: 40px;
+    border-radius: 40px;
+    border: 0px;
+    background-color: #DF343A;
+    color: white;
+    margin-top: 25px;
+}
+
+.profilepic {
+    background-color: #DF343A;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.track-delivery {
+    background-image: url("./card_pic1.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 350px;
+    background-blend-mode: overlay;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+.head-products {
+    font-size: 50px;
+    font-family: "Manrope", sans-serif;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+.red-text {
+    color: #DF343A;
+    font-weight: 600;
+    margin-left: 90px;
+}
+
+.nothing {
+    font-weight: 600;
+}
+
+.discover-log {
+    font-size: 18px;
+    word-spacing: 5px;
+    font-family: "Manrope", sans-serif;
+    color: rgb(155, 152, 152);  
+    display: block;
+    margin-left: 90px; 
+    margin-bottom: 70px;
+    margin-top: -20px;
+}
+
+.last-mile-delivery {
+    width: 500px;
+    border-radius: 25px;
+    height: 500px;
+    background: linear-gradient(to right, #F5EBEE, #E9E5F0, #DFE0F2, #D6DCF5, #D1DAF6);
+}
+
+.to-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+}
+
+.domestic-shipping {
+    width: 500px;
+    height: 500px;
+    margin-top: 150px;
+}
+
+.last-m {
+    font-size: 35px;
+    font-weight: 600;
+    font-family: "Manrope", sans-serif;
+    display: block;
+    margin: auto;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.need {
+    font-size: 15px;
+    word-spacing: 5px;
+    font-family: "Manrope", sans-serif;
+    color: rgb(155, 152, 152);
+    display: block;
+    margin: auto;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.del-pic {
+    width: 80%;
+    height: 40%;
+    margin: auto;
+    margin-right: 40px;
+    margin-left: 40px;
+    background: linear-gradient(to right, #D1DAF6, #F5EBEE);
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.dom {
+    font-size: 35px;
+    font-weight: 600;
+    font-family: "Manrope", sans-serif;
+    display: block;
+    margin: auto;
+    margin-left: 40px;
+    margin-top: 40px;  
+}
+
+.dom-text {
+    font-size: 15px;
+    word-spacing: 5px;
+    font-family: "Manrope", sans-serif;
+    color: rgb(155, 152, 152);
+    display: block;
+    margin: auto;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+
